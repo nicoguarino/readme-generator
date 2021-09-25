@@ -93,7 +93,7 @@ const ReadmeQuestions = () => {
         {
             type: "input",
             name: 'test',
-            message: 'Write instructions to test your subject: '
+            message: 'Write instructions to test your subject if you want to go the extra mile: '
         },
         //Questions to for contact, email address
         {
