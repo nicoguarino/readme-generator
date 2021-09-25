@@ -58,8 +58,8 @@ const ReadmeQuestions = () => {
         {
             type: 'checkbox',
             name: 'license',
-            message: 'Please select applicable licenses. If no license is applicable select blank option.',
-            choices: ['Apache2.0', 'MIT', "GNU GPLv3", 'ISC', ' ']
+            message: 'Please select applicable licenses. If no license press ENTER',
+            choices: ['Apache2.0', 'MIT', "GNU GPLv3", 'ISC']
         },
         // Contributing Section
         {
@@ -90,9 +90,11 @@ const ReadmeQuestions = () => {
             }
         },
         //Tests
-        // {
-        //     ask about what tests should be?
-        // },
+        {
+            type: "input",
+            name: 'test',
+            message: 'Write instructions to test your subject: '
+        },
         //Questions to for contact, email address
         {
             type: 'input',
@@ -126,12 +128,10 @@ const ReadmeQuestions = () => {
 
 // Function call to initialize app
 ReadmeQuestions()
-    .then(createTemplate => {
-        // call readme template to input all of the data from readmeQuestions function
-    })
-    .then(generateFile => {
-       return writeFile(generateFile);
-    })
+    //creates Readme Template
+    .then(generateMarkdown)
+    // writes the readme page
+    .then(writeFile)
     .catch(err => {
         console.log(err);
     });
