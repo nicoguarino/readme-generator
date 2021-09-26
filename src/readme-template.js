@@ -32,7 +32,7 @@ function generateMarkdown ({name, description, installation, usage, license, con
    const badges = renderLicenseBadge(license);
   return `
 
-## ${name}
+# ${name}
 ${badges.toString()}
 
 ## Table of Contents

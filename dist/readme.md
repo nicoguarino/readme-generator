@@ -1,7 +1,7 @@
 
 
-## nidasklf;ja;lsf
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0),[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Readme Genenerator
+
 
 ## Table of Contents
 - [About](#about)
@@ -14,28 +14,29 @@
 - [License](#license)
 
 ## About <a name = "about"></a>
-adslkf;jas;flkdsj
+Application to generate a readme.md off of user prompts
 
 ## Installation <a name = "installation"></a>
-;asldkfja;dlskfja
+install node, install inquirer modules, run in commandline
 
 ## Usage <a name = "usage"></a>
-sad;klfjsa;lkfjds
+To make it easier to generate a readme.md without having to style it.
 
 ## Test <a name = "test"></a>
-fdaskl;fj;alskdjf
+No tests available.
 
 ## Acknowledgement of Contributors <a name = "acknowledgement"></a>
-asdjfk;lasjf;dsalk
+Nico guarino
 
 ## Contribution Guidlines <a name = "contributing"></a>
-    fda;klsfja;slf
+    Open contribution with prior approval
 
 ## Contact Information <a name = "contact"></a>
-adsfkl;aj;sflk
-* [Git Repo](https://github.com/nicoguarino)
+email: nizoworld@gmail.com Phone: 7752507422
+* [Github Repo](https://github.com/nicoguarino)
 
 ## License <a name = "license"></a>
-Pertinent licenses Apache2.0,MIT
+Pertinent licenses 
+(c) 2021 Readme Genenerator
     
 
