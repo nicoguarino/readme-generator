@@ -65,10 +65,11 @@ ${contribute}
 
 ## Contact Information <a name = "contact"></a>
 ${contact}
-* [Git Repo](https://github.com/${github})
+* [Github Repo](https://github.com/${github})
 
 ## License <a name = "license"></a>
 Pertinent licenses ${license}
+(c) 2021 ${name}
     
 
 `;
