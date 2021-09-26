@@ -16,7 +16,7 @@ Readme Generator is an application that prompts a user questions to fill out a r
 
 ## Getting Started <a name = "getting-started"></a>
 
-* [Git Hub Pull](git@github.com:nicoguarino/readme-generator.git)
+* [Git Hub Pull](https://github.com/nicoguarino/readme-generator.git)
 
 ## Installation <a name = "installation"></a>
 
