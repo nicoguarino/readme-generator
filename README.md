@@ -26,7 +26,7 @@ Readme Generator is an application that prompts a user questions to fill out a r
 
 ## Code Sample <a name = "code-sample"></a>
 
-![Sample Code](https://github.com/nicoguarino/openweather/blob/main/assets/images/sample_code.png "Sample Code")
+![Sample Code](https://github.com/nicoguarino/readme-generator/blob/main/images/sample_code.png?raw=true "Sample Code")
 
 ### Sample Code
 ```JavaScript Sample
