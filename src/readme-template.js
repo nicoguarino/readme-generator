@@ -12,13 +12,13 @@ function renderLicenseBadge(license) {
                 tempLicenseArray.push('[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)');
                 break;
             case 'MIT':
-                tempLicenseArray.push('[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)');
+                tempLicenseArray.push('[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)');
                 break;
             case 'GNU GPLv3':
-                tempLicenseArray.push('[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)');
+                tempLicenseArray.push('[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)');
                 break;
             case 'ISC':
-                tempLicenseArray.push('[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)');
+                tempLicenseArray.push('[![License](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)');
                 break;
             default:
                 return blank;
@@ -68,8 +68,8 @@ ${badges.toString()}
     * [Git Repo](https://github.com/${github})
 
 ## License <a name = "license"></a>
-    ${license}
-    ${badges.toString()}
+    Pertinent licenses ${license}
+    
 
 `;
 }
