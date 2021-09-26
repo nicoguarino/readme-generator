@@ -46,29 +46,29 @@ ${badges.toString()}
 - [License](#license)
 
 ## About <a name = "about"></a>
-    ${description}
+${description}
 
 ## Installation <a name = "installation"></a>
-    ${installation}
+${installation}
 
 ## Usage <a name = "usage"></a>
-    ${usage}
+${usage}
 
 ## Test <a name = "test"></a>
-    ${test}
+${test}
 
 ## Acknowledgement of Contributors <a name = "acknowledgement"></a>
-    ${contribute}
+${contribute}
 
 ## Contribution Guidlines <a name = "contributing"></a>
     ${guidlines}
 
 ## Contact Information <a name = "contact"></a>
-    ${contact}
-    * [Git Repo](https://github.com/${github})
+${contact}
+* [Git Repo](https://github.com/${github})
 
 ## License <a name = "license"></a>
-    Pertinent licenses ${license}
+Pertinent licenses ${license}
     
 
 `;
