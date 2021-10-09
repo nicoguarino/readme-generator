@@ -1,7 +1,7 @@
 
 
-## Readme Genenerator
-
+# Readme Generator
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0),[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [About](#about)
@@ -14,29 +14,29 @@
 - [License](#license)
 
 ## About <a name = "about"></a>
-Application to generate a readme.md off of user prompts
+An application to fill out a pre-designed readme using user prompts in the command line.
 
 ## Installation <a name = "installation"></a>
-install node, install inquirer modules, run in commandline
+1. Download node 2. Install inquirer using the command line "npm i inquirer". 3. Run application using command line 'node index.js'. 4. Fill out prompts for application.
 
 ## Usage <a name = "usage"></a>
-To make it easier to generate a readme.md without having to style it.
+Readme Generator is designed to make a dev's life easier when creating a readme for their application. By simply filling out prompts it will generate a readme without much effort.
 
 ## Test <a name = "test"></a>
-No tests available.
+There are no applicable test for this application at the moment.
 
 ## Acknowledgement of Contributors <a name = "acknowledgement"></a>
-Nico guarino
+Nico Guarino
 
 ## Contribution Guidlines <a name = "contributing"></a>
-    Open contribution with prior approval
+    Contribution is open, but with prior approval from the dev team.
 
 ## Contact Information <a name = "contact"></a>
-email: nizoworld@gmail.com Phone: 7752507422
+phone: (775)250-7422 email: nizoworld@gmail.com
 * [Github Repo](https://github.com/nicoguarino)
 
 ## License <a name = "license"></a>
-Pertinent licenses 
-(c) 2021 Readme Genenerator
+Pertinent licenses Apache2.0,MIT
+(c) 2021 Readme Generator
     
 
